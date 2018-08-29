@@ -1,1 +1,1 @@
-FROM quay.io/calico/cni:v3.2.1
+FROM quay.io/calico/cni:v1.11.6
